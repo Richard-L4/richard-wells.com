@@ -320,7 +320,7 @@
     font-size: 0.68rem;
     letter-spacing: 0.25em;
     text-transform: uppercase;
-    color: rgba(195,210,245,0.65);
+    color: #dde5ff;
     margin-bottom: 22px;
   }
 
@@ -364,7 +364,7 @@
 
   .footer-copy {
     font-size: 0.74rem;
-    color: rgba(180,195,235,0.45);
+    color: #dde5ff;
     letter-spacing: 0.05em;
   }
 
@@ -472,8 +472,8 @@
     font-family: 'Inter', sans-serif;
     font-size: clamp(0.55rem, 0.9vw, 0.72rem);
     letter-spacing: 0.22em;
-    text-transform: uppercase;
-    color: rgba(120,160,220,0.6);
+    text-transform: none;
+    color: rgba(140,180,2255,0.85);
     margin-top: 18px;
   }
 
